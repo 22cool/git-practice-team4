@@ -75,7 +75,7 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
        <td align="center">
       <a href="https://github.com/22cool" target="_blank">
-       이시원입니다.
+       이시원
       </a>
     </td>
      <td align="center">
